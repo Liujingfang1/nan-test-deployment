@@ -5,6 +5,7 @@ apiVersion: kpt.dev/v1alpha1
 kind: Kptfile
 metadata:
   name: nan-test
+  namespace: nan-test-stg
 inventory:
   identifier: nan-test
   namespace: nan-test-stg
