@@ -14,4 +14,4 @@ inventory:
     appctl.gke.io/config-repo: https://github.com/nan-yu/nan-test
     appctl.gke.io/deployment-all-tags: https://github.com/nan-yu/nan-test-deployment/tags
     appctl.gke.io/deployment-repo: https://github.com/nan-yu/nan-test-deployment
-
+    foo: bar
