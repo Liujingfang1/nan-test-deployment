@@ -7,7 +7,7 @@ metadata:
   name: nan-test
 inventory:
   identifier: nan-test
-  namespace: managed-apps
+  namespace: go-app
   annotations:
     app.kubernetes.io/managed-by: appctl
     appctl.gke.io/config-commit-link: https://github.com/nan-yu/nan-test/commit/591274e
